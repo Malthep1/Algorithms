@@ -28,6 +28,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Malth\OneDrive\Dokumenter\4. Semester\Algoritmer og Datastrukturer\Algorithms\uge 7" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
@@ -57,6 +62,8 @@
       <updated>1581412569961</updated>
       <workItem from="1581412577606" duration="2481000" />
       <workItem from="1581436225566" duration="3304000" />
+      <workItem from="1581441454379" duration="599000" />
+      <workItem from="1581689376497" duration="138000" />
     </task>
     <servers />
   </component>
@@ -84,5 +91,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="465" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581412580710" />
+    <state x="209" y="33" key="new project wizard" timestamp="1581689513529">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1581689513529" />
   </component>
 </project>
